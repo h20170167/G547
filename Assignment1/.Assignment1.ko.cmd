@@ -1,0 +1,1 @@
+cmd_/home/vipin/Documents/G547/Assignment1/Assignment1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vipin/Documents/G547/Assignment1/Assignment1.ko /home/vipin/Documents/G547/Assignment1/Assignment1.o /home/vipin/Documents/G547/Assignment1/Assignment1.mod.o ;  true

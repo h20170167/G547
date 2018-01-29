@@ -1,0 +1,1 @@
+cmd_/home/vipin/Documents/G547/Assign1_adc/adc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/vipin/Documents/G547/Assign1_adc/adc.ko /home/vipin/Documents/G547/Assign1_adc/adc.o /home/vipin/Documents/G547/Assign1_adc/adc.mod.o ;  true
